@@ -1,5 +1,7 @@
 {
     "require": {
-        "defuse/php-encryption": "^2.3"
+        "defuse/php-encryption": "^2.3",
+        "phpmailer/phpmailer": "^6.6",
+        "fpdf/fpdf": "^1.8"
     }
 }

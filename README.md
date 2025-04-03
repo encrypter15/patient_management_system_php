@@ -39,9 +39,9 @@ A PHP-based system for managing patient records, appointments, and billing in a 
 ## Change Log
 - **Version 1.1 (2025-04-03)**:
   - Added user authentication with PHP sessions.
-  - Implemented CSRF protection and input validation for enhanced security.
-  - Added appointment reminders using PHPMailer.
+  - Implemented CSRF protection and input validation.
+  - Added appointment reminders with PHPMailer.
   - Added PDF invoice generation with FPDF.
-  - Improved UI with Bootstrap 5.3 for a modern, responsive design.
-  - Updated deployment instructions for HTTPS and secure key management.
-- **Version 1.0 (2025-04-03)**: Initial release with core features (encryption, appointments, billing, PHP interface).
+  - Improved UI with Bootstrap.
+  - Updated for HTTPS deployment.
+- **Version 1.0 (2025-04-03)**: Initial release with core features.

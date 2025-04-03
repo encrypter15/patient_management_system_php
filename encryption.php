@@ -2,7 +2,7 @@
 // encryption.php
 // Author: Rick Hayes
 // License: MIT
-// Version: 1.0
+// Version: 1.1
 
 require_once 'vendor/autoload.php';
 require_once 'config.php';
