@@ -1,5 +1,5 @@
 # Patient Management System (PHP Enhanced)
-
+![Patient Management System Logo](https://github.com/encrypter15/patient_management_system_php/blob/main/logo.png)
 **Author**: Rick Hayes  
 **License**: MIT  
 **Version**: 1.1  
